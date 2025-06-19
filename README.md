@@ -58,10 +58,10 @@ As a beginner, I realized that writing JSON each time for testing wasn’t pract
 
 ### 7.What i have learned
 As a beginner in Python, machine learning, and Flask, this task gave me a hands-on understanding of how complete data science projects are built and deployed.
-Data Preprocessing: I learned how to clean and prepare data, encode categorical features, and scale numerical values to make them suitable for machine learning models.
-Model Training: I gained experience using a RandomForestClassifier, splitting data for training and testing, evaluating model accuracy, and saving the model and scaler using pickle.
-Flask API Development: I built a simple API that loads the model and makes predictions through both a JSON endpoint and an HTML form. This taught me how to create interactive and usable web-based ML applications.
-Testing and Debugging: I faced and fixed beginner-level issues like environment setup, API connectivity, and missing modules, which improved my troubleshooting skills.
+* **Data Preprocessing**: I learned how to clean and prepare data, encode categorical features, and scale numerical values to make them suitable for machine learning models.
+* **Model Training**: I gained experience using a RandomForestClassifier, splitting data for training and testing, evaluating model accuracy, and saving the model and scaler using pickle.
+* **Flask API Development**: I built a simple API that loads the model and makes predictions through both a JSON endpoint and an HTML form. This taught me how to create interactive and usable web-based ML applications.
+* **Testing and Debugging**: I faced and fixed beginner-level issues like environment setup, API connectivity, and missing modules, which improved my troubleshooting skills.
 Overall, I learned how to connect every part of a project—from raw data to a fully working, user-friendly prediction system.
 
 ### 8. Conclusion
